@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-dm-sans: "DM Sans";
+    --font-delius-unicase: "Delius Unicase";
+    --font-roboto: Roboto;
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-17xl-4: 36.4px;
+    --font-size-7xl: 26px;
+    --font-size-5xl: 24px;
+    --font-size-9xl: 28px;
+    --font-size-16xl: 35px;
+    --font-size-10xl: 29px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-darkslateblue-100: #143565;
+    --color-darkslateblue-200: #04285a;
+  
+    /* border radiuses */
+    --br-3xl: 22px;
+    --br-2xs: 11px;
+  }
+  
