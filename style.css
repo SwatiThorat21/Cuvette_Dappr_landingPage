@@ -64,7 +64,7 @@ input::placeholder {
 }
 .main_section {
   display: inline-block;
-  padding: 0.3rem 1rem 2rem 6rem;
+  padding: 0.3rem 1rem 2rem 3rem;
   gap: 2rem;
   margin-top: 6.8rem;
   margin-left: 5rem;
@@ -148,7 +148,7 @@ textarea {
 .infoFooter {
   border-radius: 20px;
   background-color: #483eff;
-  margin: 5rem 12rem;
+  margin: 5rem 8rem;
   display: flex;
   align-items: center;
   padding: 2rem;
